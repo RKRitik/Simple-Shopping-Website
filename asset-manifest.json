@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Simple-Shopping-Website/static/css/main.3dffcfd2.chunk.css",
+    "main.js": "/Simple-Shopping-Website/static/js/main.d950783a.chunk.js",
+    "main.js.map": "/Simple-Shopping-Website/static/js/main.d950783a.chunk.js.map",
+    "runtime-main.js": "/Simple-Shopping-Website/static/js/runtime-main.1159bad3.js",
+    "runtime-main.js.map": "/Simple-Shopping-Website/static/js/runtime-main.1159bad3.js.map",
+    "static/css/2.de424728.chunk.css": "/Simple-Shopping-Website/static/css/2.de424728.chunk.css",
+    "static/js/2.05569c8e.chunk.js": "/Simple-Shopping-Website/static/js/2.05569c8e.chunk.js",
+    "static/js/2.05569c8e.chunk.js.map": "/Simple-Shopping-Website/static/js/2.05569c8e.chunk.js.map",
+    "index.html": "/Simple-Shopping-Website/index.html",
+    "precache-manifest.5088a2fdc168f7fca5847a15ffe73f77.js": "/Simple-Shopping-Website/precache-manifest.5088a2fdc168f7fca5847a15ffe73f77.js",
+    "service-worker.js": "/Simple-Shopping-Website/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/Simple-Shopping-Website/static/css/2.de424728.chunk.css.map",
+    "static/css/main.3dffcfd2.chunk.css.map": "/Simple-Shopping-Website/static/css/main.3dffcfd2.chunk.css.map",
+    "static/js/2.05569c8e.chunk.js.LICENSE.txt": "/Simple-Shopping-Website/static/js/2.05569c8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1159bad3.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.05569c8e.chunk.js",
+    "static/css/main.3dffcfd2.chunk.css",
+    "static/js/main.d950783a.chunk.js"
+  ]
+}
