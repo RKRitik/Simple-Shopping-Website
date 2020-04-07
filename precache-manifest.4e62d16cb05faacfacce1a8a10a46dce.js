@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4cd0e7f745b51cc53637f1cb22ab47a2",
+    "revision": "8282282c8b651af94ade6ea3bc318efd",
     "url": "/Simple-Shopping-Website/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Simple-Shopping-Website/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "2553d459b61bcd31a0e2",
-    "url": "/Simple-Shopping-Website/static/css/main.3dffcfd2.chunk.css"
+    "revision": "e55708f919f0ebd65753",
+    "url": "/Simple-Shopping-Website/static/css/main.e17f0dd5.chunk.css"
   },
   {
     "revision": "fc4812433c303da32739",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Simple-Shopping-Website/static/js/2.05569c8e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2553d459b61bcd31a0e2",
+    "revision": "e55708f919f0ebd65753",
     "url": "/Simple-Shopping-Website/static/js/main.d950783a.chunk.js"
   },
   {
