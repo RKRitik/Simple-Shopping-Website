@@ -71,10 +71,11 @@ class LoginModal extends Component {
   render() {
     return (
       <div>
-        <NavLink onClick={this.toggle} href="#">
-          Login
-        </NavLink>
-
+        <Button color="link">
+          <NavLink onClick={this.toggle} href="#">
+            Login
+          </NavLink>
+        </Button>
         <Modal isOpen={this.state.modal} toggle={this.toggle}>
           <ModalHeader toggle={this.toggle}>Login</ModalHeader>
           <ModalBody>
@@ -102,7 +103,10 @@ class LoginModal extends Component {
                   className="mb-3"
                   onChange={this.onChange}
                 />
-                <Button color="dark" style={{ marginTop: "2rem" }} block>
+                <Button
+                  style={{ backgroundColor: "#e64a19", marginTop: "2rem" }}
+                  block
+                >
                   Login
                 </Button>
               </FormGroup>

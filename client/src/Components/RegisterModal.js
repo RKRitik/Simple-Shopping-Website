@@ -75,10 +75,11 @@ class RegisterModal extends Component {
   render() {
     return (
       <div>
-        <NavLink onClick={this.toggle} href="#">
-          Register
-        </NavLink>
-
+        <Button color="link">
+          <NavLink onClick={this.toggle} href="#">
+            Register
+          </NavLink>
+        </Button>
         <Modal isOpen={this.state.modal} toggle={this.toggle}>
           <ModalHeader toggle={this.toggle}>Register</ModalHeader>
           <ModalBody>
@@ -116,7 +117,10 @@ class RegisterModal extends Component {
                   className="mb-3"
                   onChange={this.onChange}
                 />
-                <Button color="dark" style={{ marginTop: "2rem" }} block>
+                <Button
+                  style={{ backgroundColor: "#e64a19", marginTop: "2rem" }}
+                  block
+                >
                   Register
                 </Button>
               </FormGroup>
